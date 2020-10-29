@@ -1,7 +1,7 @@
 
 ![Preview](misc/__screenshot.png)
 
-## Welcome
+# Welcome
 
 Assalamu'alaikum warahmatullah!
 
@@ -11,10 +11,20 @@ Bagian ini merupakan salah satu kumpulan kerja dari klub menulis FGroupIndonesia
 
 Nama Tema tersebut disingkat menjadi **BEHAD**
 
-Untuk mendownload versi :
+## Download 
 
-- satuan perhalaman harap klik di *Individual-page* folder diatas.
-- lengkap klik di [PDF-Lengkap-BEHAD.pdf](../PDF-Lengkap-BEHAD.pdf)
+Terdapat dua pilihan apakah ingin mendownload satuan / lengkap sekaligus?
+
+### Versi Lengkap
+
+- versi modul lengkap di [PDF-Lengkap-BEHAD.pdf](../PDF-Lengkap-BEHAD.pdf)
+
+
+### Versi Satuan
+
+- [BAB-01-A.pdf](../individual-page/BAB-01-A.pdf)
+- [BAB-02-B.pdf](../individual-page/BAB-02-B.pdf)
+
 
 Selamat berkontribusi untuk ummat!
 
