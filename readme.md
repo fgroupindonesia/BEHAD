@@ -17,7 +17,7 @@ Terdapat dua pilihan apakah ingin mendownload satuan / lengkap sekaligus?
 
 ### Versi Lengkap
 
-- versi modul lengkap di [PDF-Lengkap-BEHAD.pdf](PDF-Lengkap-BEHAD.pdf)
+- versi modul lengkap di [modul-lengkap-BEHAD.pdf](modul-lengkap-BEHAD.pdf)
 
 
 ### Versi Satuan
@@ -49,7 +49,7 @@ Terdapat dua pilihan apakah ingin mendownload satuan / lengkap sekaligus?
 - [BAB-25-Y.pdf](individual-page/BAB-25-Y.pdf)
 - [BAB-26-Z.pdf](individual-page/BAB-26-Z.pdf)
 
-
+	
 Selamat berkontribusi untuk ummat!
 
 (c) FGroupIndonesia, 2020.
