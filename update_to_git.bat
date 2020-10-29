@@ -1,4 +1,4 @@
 git add .
-git commit -m "changing fonts chapter A-Z QuickSand & Traces."
+git commit -m "renaming chapter number."
 git push origin master
 git gc --prune
