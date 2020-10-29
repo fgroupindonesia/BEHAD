@@ -19,7 +19,7 @@ Terdapat dua pilihan apakah ingin mendownload satuan / lengkap sekaligus?
 
 ### Versi Lengkap
 
-- versi modul lengkap di [modul-lengkap-BEHAD.pdf](modul-lengkap-BEHAD.pdf)
+- versi modul lengkap di [modul-lengkap-BEHAD-new.pdf](modul-lengkap-BEHAD-new.pdf)
 
 
 ### Versi Satuan
