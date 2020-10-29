@@ -17,13 +17,13 @@ Terdapat dua pilihan apakah ingin mendownload satuan / lengkap sekaligus?
 
 ### Versi Lengkap
 
-- versi modul lengkap di [PDF-Lengkap-BEHAD.pdf](../PDF-Lengkap-BEHAD.pdf)
+- versi modul lengkap di [PDF-Lengkap-BEHAD.pdf](PDF-Lengkap-BEHAD.pdf)
 
 
 ### Versi Satuan
 
-- [BAB-01-A.pdf](../individual-page/BAB-01-A.pdf)
-- [BAB-02-B.pdf](../individual-page/BAB-02-B.pdf)
+- [BAB-01-A.pdf](individual-page/BAB-01-A.pdf)
+- [BAB-02-B.pdf](individual-page/BAB-02-B.pdf)
 
 
 Selamat berkontribusi untuk ummat!
