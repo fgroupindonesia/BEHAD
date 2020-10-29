@@ -1,5 +1,5 @@
 
-[1]: https://github.com/fgroupindonesia/BEHAD/blob/master/modul-lengkap-BEHAD.pdf
+[1]: https://github.com/fgroupindonesia/BEHAD/blob/master/modul-lengkap-BEHAD-new.pdf
 [2]: https://github.com/fgroupindonesia/BEHAD/blob/master/misc/__screenshot.png
 [![Preview][2]][1]
 
