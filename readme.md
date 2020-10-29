@@ -1,5 +1,5 @@
 
-![Preview](misc/_screenshot.png)
+![Preview](misc/__screenshot.png)
 
 ## Welcome
 
